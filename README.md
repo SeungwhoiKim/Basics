@@ -1,3 +1,4 @@
 # CS3704 SE Basics Workshop
-Hello!
+Seungwhoi Kim 
+Hello GitHub!
  Update: Fri Jan 26 12:39:34     2024

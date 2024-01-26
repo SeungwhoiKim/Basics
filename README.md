@@ -1,4 +1,5 @@
 # CS3704 SE Basics Workshop
-Seungwhoi Kim 
+Seungwhoi Kim
 Hello GitHub!
  Update: Fri Jan 26 12:39:34     2024
+\nXiaolong Xuan(xxiaolong)
